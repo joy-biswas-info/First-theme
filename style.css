@@ -13,3 +13,13 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: jrtheme
 Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, block-patterns, rtl-language-support, sticky-post, threaded-comments
 ============================================*/
+
+/* Global Css */
+*{
+    outline: 0;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
